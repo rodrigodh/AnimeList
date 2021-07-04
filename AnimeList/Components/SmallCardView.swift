@@ -1,10 +1,3 @@
-//
-//  SmallCardView.swift
-//  MyFirstIOSApp
-//
-//  Created by Rodrigo Schieck on 04/07/21.
-//
-
 import SwiftUI
 
 struct SmallCardView: View {
